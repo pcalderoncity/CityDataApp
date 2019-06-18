@@ -1,0 +1,7 @@
+{
+    "VERSION": "1.7.0.190614",
+    "REST_URI": "http://app.citymovil.cl/citydata",
+    "WS_MAP_COORDINATES": "http://controloptimo.citymovil.cl/utiles/coordenadas/coordenadasFromGmapsLink.php",
+    "REST_URI_DEV": "http://app.citymovil.cl/citydata_pc",
+    "WS_MAP_COORDINATES_DV": "http://controloptimo.citymovil.cl/utiles/coordenadas/coordenadasFromGmapsLink.php"
+}
